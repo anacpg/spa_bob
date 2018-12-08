@@ -1,0 +1,21 @@
+.root {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0.5em;
+  padding: 1em;
+}
+
+.text {
+  font-size: 16pt;
+  font-weight: 200;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.username {
+  color: #aaa;
+}
